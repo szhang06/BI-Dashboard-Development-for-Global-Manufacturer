@@ -22,8 +22,26 @@ This project involves developing a comprehensive BI solution to meet the managem
 
 - Determine customer segments contributing the most to sales.
 - Spot trends in customer purchasing behavior.
+
+5. Built an ELT Azure data pipeline
+
 ## Deliverables
-Interactive PowerBI Dashboard
+### Azure Data Analytics Pipeline
+
+### Components Used:
+- **Azure Data Factory**: For orchestration and data movement
+- **Azure Databricks**: For data transformation and processing
+- **Power BI**: For visualization and reporting
+- **Azure Data Lake**: For raw data storage
+
+### Pipeline Flow:
+1. Data ingestion from multiple sources via ADF
+2. Raw data storage in Data Lake
+3. Transformation logic in Databricks notebooks
+4. Processed data loaded to analytical storage
+5. Power BI connects for visualization
+
+### Power BI Dashboard:
 
 ## Steps to Get Started
 1. **Understand Business Requirements**: Review objectives and KPIs to align with management needs.
