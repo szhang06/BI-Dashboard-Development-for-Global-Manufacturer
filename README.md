@@ -28,13 +28,13 @@ This project involves developing a comprehensive BI solution to meet the managem
 ## Deliverables
 ### Azure Data Analytics Pipeline
 
-### Components Used:
+#### Components Used:
 - **Azure Data Factory**: For orchestration and data movement
 - **Azure Databricks**: For data transformation and processing
 - **Power BI**: For visualization and reporting
 - **Azure Data Lake**: For raw data storage
 
-### Pipeline Flow:
+#### Pipeline Flow:
 1. Data ingestion from multiple sources via ADF
 2. Raw data storage in Data Lake
 3. Transformation logic in Databricks notebooks
@@ -43,14 +43,14 @@ This project involves developing a comprehensive BI solution to meet the managem
 
 ### Power BI Dashboard:
 
-## Steps to Get Started
+#### Steps to Get Started
 1. **Understand Business Requirements**: Review objectives and KPIs to align with management needs.
 2. **Explore and Prepare Data**: Use SQL or other tools to clean and structure the dataset.
 3. **Develop the Dashboard**: Create visuals for each KPI and analysis area using the selected tool.
 4. **Test and Validate Insights**: Ensure data accuracy and relevance of insights.
 5. **Prepare Deliverables**: Document findings and prepare the dashboard for presentation.
 
-## Dashboard Highlights
+#### Dashboard Highlights
 1. Key Metrics:
 
 - Profit and Revenue:
@@ -68,13 +68,13 @@ This project involves developing a comprehensive BI solution to meet the managem
 
   - Bikes, particularly Mountain and Touring models, are primary revenue drivers.
   - 2020 was the peak year for average revenue.
-## Objectives Achieved
+#### Objectives Achieved
 - **Track KPIs**: Sales, revenue, profit, and returns visualized for easy tracking.
 - **Analyze Regional Performance**: Geographic segmentation highlights high-performing areas.
 - **Identify Trends**: Product and customer insights inform targeted marketing and product strategies.
 - **Highlight High-Value Customers**: Focus on key contributors to sales growth.
 
-## Future Recommendations
+#### Future Recommendations
 - Focus marketing efforts on high-performing regions and product lines.
 - Develop targeted campaigns for low-income or clerical customer segments.
 - Explore additional data integration to monitor returns and customer satisfaction.
